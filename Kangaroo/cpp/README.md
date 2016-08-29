@@ -13,9 +13,9 @@ A single line of four space-separated integers denoting the respective values of
 
 ####Constraints
 
-- `0 <= x1 < x2 <= 10000`
-- `1 <= v1 <= 10000`
-- `1 <= v2 <= 10000`
+- 0 <= x1 < x2 <= 10000
+- 1 <= v1 <= 10000
+- 1 <= v2 <= 10000
 
 ####Output Format
 
