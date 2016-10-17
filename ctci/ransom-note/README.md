@@ -22,6 +22,7 @@ Print `Yes` if he can use the magazine to create an untraceable replica of his r
 ```
 6 4
 give me one grand today night
+give one grand today
 ```
 
 ####Sample Output
