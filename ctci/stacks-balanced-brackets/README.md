@@ -18,7 +18,7 @@ Each *i* line of the *n* subsequent lines consists of a single string, *s*, deno
 
 ####Constraints
  - 1 <= *n* <= 10^3
- - 1 <= *length(s)* ,+ 10^3, where *length(s)* is the length of the sequence.
+ - 1 <= *length(s)* <= 10^3, where *length(s)* is the length of the sequence.
  - Each character in the sequence will be a bracket (i.e., `{`, `}`, `(`, `)`, `[`, and `]`).
 
 ####Output Format
