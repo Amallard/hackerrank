@@ -5,8 +5,10 @@ using namespace std;
 
 // returns true if char (arg) is an open bracket
 bool isOpen(char c) {
-    if (c == '[' || c == '{' || c == '(') return true;
-    else return false;
+    if (c == '[' || c == '{' || c == '(') 
+        return true;
+    else 
+        return false;
 }
 
 // returns true if char a is the same bracket type as char b
